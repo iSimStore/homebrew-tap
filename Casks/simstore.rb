@@ -1,6 +1,6 @@
 cask "simstore" do
-  version "1.0.1"
-  sha256 "c7b22594ecfff15851760bfb2c568ddc3651639b0b30873a0a2d702fe7d52575"
+  version "1.1.0"
+  sha256 "282100011bfe893c3a1ac6ebecd14e2f5a206344a1dba2c184e8827cd39c7984"
 
   url "https://github.com/iSimStore/simstore/releases/download/#{version}/SimStore.app.tar.bz2"
   name "SimStore"
